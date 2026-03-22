@@ -1,7 +1,7 @@
 import streamlit as st
 import numpy as np
 import os
-from tensorflow.keras.models import load_model
+from keras.models import load_model
 from utils import extract_features
 from pydub import AudioSegment
 
