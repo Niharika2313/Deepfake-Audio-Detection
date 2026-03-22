@@ -131,7 +131,7 @@ soxr==1.0.0
 stack-data==0.6.3
 streamlit==1.55.0
 tenacity==9.1.4
-tensorflow-cpu==2.15.0
+tensorflow-cpu==2.13.0
 termcolor==3.3.0
 terminado==0.18.1
 threadpoolctl==3.6.0
