@@ -85,6 +85,7 @@ notebook==7.5.5
 notebook_shim==0.2.4
 numba==0.64.0
 numpy==2.4.3
+opencv-python==4.13.0.92
 opt_einsum==3.4.0
 optree==0.19.0
 packaging==26.0
@@ -102,6 +103,7 @@ pure_eval==0.2.3
 pyarrow==23.0.1
 pycparser==3.0
 pydeck==0.9.1
+pydub==0.25.1
 Pygments==2.19.2
 pyparsing==3.3.2
 python-dateutil==2.9.0.post0
